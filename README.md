@@ -1,4 +1,5 @@
-# Diabetic Retinopathy Classifier and Web App
+# Diabetic Retinopathy Classifier
+Used Machine Learning techniques to classify Diabetic diseases.
 
 ## Technologies
 
