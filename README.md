@@ -1,5 +1,5 @@
 # Diabetic Retinopathy Classifier
-Used Machine Learning techniques to classify Diabetic diseases.
+Used Machine Learning techniques to classify Diabetic diseases affectiong eyesight.
 
 ## Technologies
 
